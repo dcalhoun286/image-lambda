@@ -15,3 +15,10 @@ For this lab assignment, I utilized AWS Lambda to process images when they're up
 ## Links
 
 ## Resources and Collaborators
+
+- [YouTube: Using a Lambda trigger to resize an uploaded image](https://www.youtube.com/watch?v=M4iEeXlw_qU)
+- [Medium: Resize Images On-the-Fly With S3, Lambda, and API Gateway](https://medium.com/frontend-at-scale/resize-images-on-the-fly-with-s3-lambda-and-api-gateway-36032f44857b)
+- [GitHub: nodejs-aws-lambda-image-resizer](https://github.com/MuhammadReda/nodejs-aws-lambda-image-resizer/)
+- [GitHub: sample JavaScript code for resizing pictures on AWS Lambda](https://gist.github.com/dkarchmer/d68e20f6de36827d6c2f0f640bf151e1)
+- [Stack Overflow: resizing the image in S3 bucket from lambda trigger using NodeJS](https://stackoverflow.com/questions/44434372/resizing-the-image-in-s3-bucket-from-lambda-trigger-using-nodejs)
+- [npmjs.com: lambda-resize-image](https://www.npmjs.com/package/lambda-resize-image#usage-image-restrictions-resize)
