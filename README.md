@@ -14,6 +14,8 @@ For this lab assignment, I utilized AWS Lambda to process images when they're up
 
 ## Links
 
+- Pull Request: [https://github.com/dcalhoun286/image-lambda/pull/1](https://github.com/dcalhoun286/image-lambda/pull/1)
+
 ## Resources and Collaborators
 
 - [YouTube: Using a Lambda trigger to resize an uploaded image](https://www.youtube.com/watch?v=M4iEeXlw_qU)
